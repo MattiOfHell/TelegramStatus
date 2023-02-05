@@ -8,3 +8,10 @@ This code will notify when a user goes online on Telegram.
 4. Open the "bot.py" file
 5. Go to the website "https://my.telegram.org/" -> API developements tool ->
 6. Copy "API_ID" and "API_HASH" and put them in the file at lines 4 and 5.
+
+# How to use
+This code can warn in 4 different ways:
+* Message a person on telegram (Not himself)
+* Send a message to the console
+* Open a CMD (Windows Only)
+* Open Notepad (Windows Only) and write in "Name is now online!"
