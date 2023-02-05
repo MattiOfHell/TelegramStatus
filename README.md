@@ -16,6 +16,6 @@ This code can warn in 4 different ways:
 * Open a CMD (Windows Only) --> Remove the # at the beginning of the 26th line
 * Open Notepad (Windows Only) and write in "Name is now online!" --> Remove the # at the beginning of the 28th, 29th, 30th lines
 
-If you want to disable a method just add a # to the line of it.
+If you want to deactivate a method just add a # to the beginning of the line of it.
 
 
