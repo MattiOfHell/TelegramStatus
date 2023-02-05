@@ -11,7 +11,11 @@ This code will notify when a user goes online on Telegram.
 
 # How to use
 This code can warn in 4 different ways:
-* Message a person on telegram (Not himself)
-* Send a message to the console
-* Open a CMD (Windows Only)
-* Open Notepad (Windows Only) and write in "Name is now online!"
+* Send a message to the console --> This method is activated by default
+* Message a person on telegram (Not himself) --> Remove the # at the beginning of the 32nd line and 7th line and change the "YOUR_TARGET_MSG" to the 7th line
+* Open a CMD (Windows Only) --> Remove the # at the beginning of the 26th line
+* Open Notepad (Windows Only) and write in "Name is now online!" --> Remove the # at the beginning of the 28th, 29th, 30th lines
+
+If you want to disable a method just add a # to the line of it.
+
+
