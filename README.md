@@ -2,7 +2,7 @@
 This code will notify when a user goes online on Telegram.
 
 # Installation
-1. Download the file (Link) on your pc and extract it.
+1. Download the file (ZIP) on your pc and extract it.
 2. Install python 3.8 from the Microsoft Store or Python web page.
 3. Open the "install.bat" file and wait for the installation
 4. Open the "bot.py" file
